@@ -1,0 +1,6 @@
+{
+  "name": "AqAirQlouds",
+  "description": "An interactive air quality visualization tool using Google Maps and OpenAQ data to show global PM2.5 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
